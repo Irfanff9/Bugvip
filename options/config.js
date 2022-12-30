@@ -21,7 +21,7 @@ NO 2 : 085157740529
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ["089510497533"]
+global.owner = ["6289510497533"]
 global.ownerName = 'IRFANFF9'
 global.botName = 'POPEYE BUG VIP'
 global.prefa = ['','!','.','🐦','🐤','🗿','/']
